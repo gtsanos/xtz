@@ -1,5 +1,8 @@
-las vegas baby_tick,
-coventry_tick,
-New York_notick,
-Greece_tick,
-lkelelellel_notick
+Thailand_notick,
+Japan_notick,
+Africa_notick,
+Santorini_notick,
+Lapland_notick,
+Finland_notick,
+Germany_notick,
+Austria_notick
