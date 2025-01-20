@@ -1,4 +1,12 @@
-bucket1_tick,
-bucket2_tick,
-bucket3_notick,
-bucket4_notick
+Hot air baloon_notick,
+Ski_notick,
+Hot tab_notick,
+Free driving_notick,
+Drive exchange_notick,
+Viewpoint_tick,
+Paragliding_notick,
+Skydiving_notick,
+picnic_notick,
+camping and stargazing_notick,
+Hotel invasion_tick,
+casino visit_notick
