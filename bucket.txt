@@ -6,7 +6,7 @@ Drive exchange_notick,
 Viewpoint_tick,
 Paragliding_notick,
 Skydiving_notick,
-picnic_notick,
-camping and stargazing_notick,
+Picnic_notick,
+Camping and stargazing_notick,
 Hotel invasion_tick,
-casino visit_notick
+Casino visit_notick
