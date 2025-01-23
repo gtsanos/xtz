@@ -17,7 +17,6 @@ Safari_notick
 Horse Riding_notick,
 Invitation to Farm_notick,
 Famous artist Concert_notick,
-Skinny dipping_notick,
 Clay shooting_notick,
 Fishing_notick,
 Snow_tick,
