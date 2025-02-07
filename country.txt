@@ -6,4 +6,4 @@ Lapland_notick,
 Finland_notick,
 Germany_notick,
 Austria_notick,
-UK_tick
+UK_notick
