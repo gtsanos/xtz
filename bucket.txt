@@ -29,4 +29,5 @@ Yoga session_notick,
 Beach Rocks date_notick,
 Swimming together_notick,
 Car cinema_notick,
-heart shaped pizza_notick
+heart shaped pizza_notick,
+Polyxeni toumazou is now at university of thessally studying medicine_notick
