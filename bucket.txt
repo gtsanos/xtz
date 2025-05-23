@@ -1,6 +1,5 @@
 Sculpting together_notick,
 Hot air baloon_notick,
-Ski_notick,
 Hot tab_notick,
 Free driving_notick,
 Drive exchange_notick,
